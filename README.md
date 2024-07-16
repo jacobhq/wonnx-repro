@@ -2,7 +2,9 @@
 > When I try and build my project, I get these errors in the wgpu crate, which is a dependency of the wonnx crate that I am using.
 
 ## Relevant Posts
-- https://stackoverflow.com/staging-ground/78756547
+- https://stackoverflow.com/questions/78756708/getting-errors-in-wgpu-crate-when-used-as-a-dependency-of-wonnx
+- https://github.com/webonnx/wonnx/issues/212
+- Output of `cargo tree`: https://gist.github.com/jacobhq/8248f59c7f392a2d10a1722422641e9b
 
 ## My Setup
 - Windows 11 Home
